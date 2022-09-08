@@ -5,8 +5,8 @@
  *  * main - The entry point of the program
  *
  *   * Return: Outputs an integar which is the set return type
- *
- *    */
+ * 
+   */
 
 int main(void)
 {
