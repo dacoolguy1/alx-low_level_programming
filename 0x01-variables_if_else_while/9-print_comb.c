@@ -11,6 +11,7 @@ int main(void)
 
 {
 	unsigned int start;
+
 	for (start = 10; start < 20; start++)
 	{
 		putchar((start % 10) + '0');
