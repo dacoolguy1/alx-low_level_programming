@@ -2,9 +2,9 @@
 
 /**
  *
- *  * main - The entry point of the program
+ *  main - The entry point of the program
  *
- *   * Return: ouputs result which is int
+ *   Return: ouputs result which is int
  *
  */
 
@@ -13,6 +13,7 @@ int main(void)
 {
 	char a_;
 	a_ = 'a';
+
 	while (a_ <= 'z')
 	{
 		putchar(a_);
