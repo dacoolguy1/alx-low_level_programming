@@ -8,7 +8,7 @@ int main(void)
 {
 	char small_a;
 	char big_a;
-	
+
 	small_a = 'a';
 	big_a = 'A';
 	while (small_a <= 'z')
@@ -18,7 +18,8 @@ int main(void)
 	}
 		while (big_a <= 'Z')
 		{
-			putchar(big_a);									big_a++;
+			putchar(big_a);
+			big_a++;
 		}
 
 	putchar('\n');
