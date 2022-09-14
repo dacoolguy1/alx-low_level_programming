@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * print_to_98 - The entry point
+  * print_to_98 - The entry poin
   * @n: The integar
   * Return: void
   */
