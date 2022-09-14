@@ -1,14 +1,11 @@
-#include "holberton.h"
-
+#include "main.h"
+#include <stdlib.h>
 
 
 /**
- *
- *  * jack_bauer - prints every minute of the day of Jack Bauer
- *
- *   * Return:void
- *
- *    */
+ * jack_bauer - prints every minute of the day of Jack Baue
+ * Return:void
+ */
 
 
 
