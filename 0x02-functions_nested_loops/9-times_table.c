@@ -1,5 +1,5 @@
 #include "main.h"
-#include "main.c"
+#include "9-main.c"
 
 /**
  * times_table - prints the times table of an integer starting with zero
