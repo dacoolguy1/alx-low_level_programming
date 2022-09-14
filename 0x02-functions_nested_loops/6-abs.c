@@ -1,8 +1,7 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- *
- * _abs -entry point
+ * _abs -entry point.
  * @num: Number to be converted
  * Return: returns 1;
  */
