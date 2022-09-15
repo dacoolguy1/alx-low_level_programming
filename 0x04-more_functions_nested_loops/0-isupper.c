@@ -4,7 +4,6 @@
   * @c: The number to be checked
   * Return: returns 1 on success
   */
-
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
