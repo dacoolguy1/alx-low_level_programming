@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - function name
+ * print_line - function named
  * @n: number of times the loop would run
  */
 void print_line(int n)
