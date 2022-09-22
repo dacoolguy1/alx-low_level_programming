@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * leet - encode string into 1337 leet
- * @s: string to manipulate
+ * @s: string to be manipulated
  * Return: string
  */
 char *leet(char *s)
@@ -18,6 +18,6 @@ char *leet(char *s)
 			if (s[j] == a[i])
 				s[j] = b[i];
 		}
-		return (s);
 	}
+	return (s);
 }
