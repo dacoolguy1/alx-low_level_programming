@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 /**
  * _memcpy - Program that copies the memory area,
  * @dest: destination menory area
