@@ -1,6 +1,6 @@
-#Low-level programming & Algorithm.
+# Low-level programming & Algorithm.
 module of Low-level programming and algorithm, done during Full Stack Software Engineering studies at ALX School.
-##Technologies
+## Technologies
 •	C files are complied using gcc 4.8.4
 •	C files are written according to C90 standard
 •	tested on Ubuntu 14.04 LTS
