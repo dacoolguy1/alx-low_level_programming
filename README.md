@@ -1,11 +1,11 @@
 # Low-level programming & Algorithm.
 module of Low-level programming and algorithm, done during Full Stack Software Engineering studies at ALX School.
 ## Technologies
-**	C files are complied using gcc 4.8.4
-•	C files are written according to C90 standard
+#####	C files are complied using gcc 4.8.4
+#####	C files are written according to C90 standard
 •	tested on Ubuntu 14.04 LTS
-Files
-All of the following files are programs written in C:
+##### Files
+##### All of the following files are programs written in C:
 Filename  |	Description
 --------  | -----------
 0x00-hello_world |	It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language
