@@ -19,7 +19,7 @@ char *_strdup(char *str)
 	if (dupli == NULL)
 		return (NULL);
 	for (j = 0; j <= i; j++)
-		strout[j] = str[j];
+		dupli[j] = str[j];
 
 	return (dupli);
 }
